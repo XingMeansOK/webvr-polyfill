@@ -1,13 +1,14 @@
 {
-  "name": "webvr-polyfill",
+  "name": "webvr-polyfill-cn",
   "version": "0.10.10",
   "homepage": "https://github.com/immersive-web/webvr-polyfill",
   "authors": [
     "Boris Smus <boris@smus.com>",
     "Brandon Jones <tojiro@gmail.com>",
-    "Jordan Santell <jordan@jsantell.com>"
+    "Jordan Santell <jordan@jsantell.com>",
+    "DFG <771267736@qq.com>"
   ],
-  "description": "Use WebVR today, on mobile or desktop, without requiring a special browser build.",
+  "description": "webvr polyfill 中国版，支持更多国产机型",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-plugin-external-helpers": "^6.22.0",
