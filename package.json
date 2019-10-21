@@ -1,6 +1,6 @@
 {
   "name": "webvr-polyfill-cn",
-  "version": "0.10.10",
+  "version": "0.10.11",
   "homepage": "https://github.com/immersive-web/webvr-polyfill",
   "authors": [
     "Boris Smus <boris@smus.com>",

@@ -3360,7 +3360,7 @@ var DefaultConfig = {
   PROVIDE_MOBILE_VRDISPLAY: true,
   MOBILE_WAKE_LOCK: true,
   DEBUG: false,
-  DPDB_URL: 'https://dpdb.webvr.rocks/dpdb.json',
+  DPDB_URL: 'https://xingmeansok.github.io/webvr-polyfill-dpdb/dpdb.json',
   K_FILTER: 0.98,
   PREDICTION_TIME_S: 0.040,
   CARDBOARD_UI_DISABLED: false,
